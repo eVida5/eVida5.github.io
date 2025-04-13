@@ -1,2 +1,2 @@
-# eVida5 Static Website
+# Silenceside Static Website
 Landing page for the organization.
